@@ -43,7 +43,7 @@ def handler(event, context):
         query_request = event["queryStringParameters"]["query"]
         index = event["queryStringParameters"]["index"]
     except:
-        query_request = ""
+        query_request = "ebs"
         index = "cdk-entest"
     # opensearch query
     query = {
@@ -75,7 +75,7 @@ def handler(event, context):
 
 
 if __name__ == "__main__":
-    resp = handler(
+    resp_test = handler(
         event={
             "queryStringParameters": {
                 "query": "ebs",
@@ -84,4 +84,4 @@ if __name__ == "__main__":
         },
         context=None,
     )
-    print(resp)
+    print(resp_test)
