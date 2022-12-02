@@ -12,6 +12,11 @@ date: 06-11-2022
 - using python sdk
 - [basic dsl language](https://opensearch.org/docs/latest/opensearch/query-dsl/full-text/#match)
 
+## Architecture
+
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/20411077/205195719-e84c604d-c038-4aa2-9da0-27cd1f83cd11.png)
+
+
 ## Upload Data
 
 export opensearch domain
