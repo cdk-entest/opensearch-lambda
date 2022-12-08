@@ -12,6 +12,8 @@ date: 06-11-2022
 - using python sdk
 - [basic dsl language](https://opensearch.org/docs/latest/opensearch/query-dsl/full-text/#match)
 
+## Architecture
+
 ## Upload Data
 
 export opensearch domain
