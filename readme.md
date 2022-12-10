@@ -14,7 +14,8 @@ date: 06-11-2022
 
 ## Architecture
 
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/20411077/205195719-e84c604d-c038-4aa2-9da0-27cd1f83cd11.png)
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/20411077/206821555-c0f5f761-54eb-44cb-a980-8073467532be.png)
+
 
 ## Upload Data
 
